@@ -1,0 +1,11 @@
+# Symptom Survey Automation Bot
+
+The Symptom Survey Automation Bot is a script developed to automate the completion of the UC Davis daily symptom survey. This script streamlines the survey completion process by automatically filling in the required information, saving you time and effort.
+
+## Dependencies
+
+To run the Symptom Survey Automation Bot, you need to install the following dependencies:
+
+- **ChromeDriver:** Download and install the appropriate version of ChromeDriver for your Chrome browser. You can find the download link and installation instructions [here](https://chromedriver.chromium.org/downloads).
+
+- **Selenium:** Install the Selenium library using the following command:
